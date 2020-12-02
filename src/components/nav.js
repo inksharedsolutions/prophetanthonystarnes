@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 import { Link } from 'gatsby';
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faBars, faTimes } from "@fortawesome/free-solid-svg-icons";
-import Logo from '../static/logo/AVA.png'
+import Logo from '../static/logo/logo.png'
 
 const Nav = (props) => {
 

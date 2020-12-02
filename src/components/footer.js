@@ -3,7 +3,7 @@ import {Link} from 'gatsby';
 import {faTwitter, faInstagram, faFacebook, faGoodreads} from '@fortawesome/fontawesome-free-brands';
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import LogoFooter from '../static/logo/stratton-footer-logo.png';
-import Logo from '../static/logo/AVA.png';
+import Logo from '../static/logo/logo-white.png';
 import Newsletter from "./newsletter";
 
 
