@@ -21,7 +21,7 @@ const ATB = (props)=>{
 	return (
 		<>
 		 	<Layout>
-                 <Helmet title="Books | Ava Phillips"/>
+                 <Helmet title="Books | Prophet Anthony Starnes"/>
 		 		<Nav />
 		 		<Banner
                     spanFirst={`About The`}

@@ -28,7 +28,7 @@ const Pp = (props) =>{
 	return(
 		<>
 		 	<Layout>
-				<Helmet title="Privacy Policy | Ava Phillips"/>
+				<Helmet title="Privacy Policy | Prophet Anthony Starnes"/>
 			 	<Nav />
 
                 <Banner 

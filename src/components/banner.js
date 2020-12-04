@@ -16,7 +16,7 @@ const Banner = ()=>{
                                 <h1>
                                     Another Jesus Movement
                                 </h1>
-                                <p>is a documented record of spiritual gifts including prohpecies, words of knowledge and words of wisdom that were given by God to the New Testament Prophet Anthony Starnes</p>
+                                <p>is a documented record of spiritual gifts including prophecies, words of knowledge and words of wisdom that were given by God to the New Testament Prophet Anthony Starnes</p>
                             </div>
                             <br />
                             <button><Link to="/about-the-book">Read More</Link></button>
