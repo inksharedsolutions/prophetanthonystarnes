@@ -37,7 +37,6 @@ const ATB = (props)=>{
                                 </span>
                             </div>
                         </div>
-
                         <article className="article-section column" id="author">
                         <p>
                                         Back when I had just become a teenager, my dad gave me

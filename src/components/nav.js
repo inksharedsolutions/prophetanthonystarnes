@@ -18,8 +18,8 @@ const Nav = (props) => {
                     <Link to="/"><img src={Logo} className="nav-logo" alt="logo"/></Link>
                     <ul>
                         <li><Link to="/contact" className="nav-links">Contact</Link></li>
-                        <li><Link to="/about-the-author" className="nav-links">About the Author</Link></li>
                         <li><Link to="/about-the-book" className="nav-links">About the Book</Link></li>
+                        <li><Link to="/about-the-author" className="nav-links">About the Author</Link></li>
                         <li><Link to="/" className="nav-links">Home</Link></li>
                     </ul>
                     {toggled?
@@ -31,8 +31,8 @@ const Nav = (props) => {
             </nav>
             <div className={toggled? "toggle-nav": "toggle-nav-hide"}>
                 <Link to="/" className="toggle-nav-links">Home</Link>
-                <Link to="/about-the-book" className="toggle-nav-links">About the Book</Link>
                 <Link to="/about-the-author" className="toggle-nav-links">About the Author</Link>
+                <Link to="/about-the-book" className="toggle-nav-links">About the Book</Link>
                 <Link to="/contact" className="toggle-nav-links">Contact</Link>
             </div>
         </>
